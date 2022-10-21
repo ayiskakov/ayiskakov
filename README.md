@@ -1,4 +1,4 @@
-![](https://wallpaperaccess.com/full/4482737.png)
+![](https://media.tproger.ru/uploads/2021/08/go-autoconverted.jpeg)
 
 # Hi there 👋
 
