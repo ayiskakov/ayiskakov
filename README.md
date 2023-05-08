@@ -1,6 +1,6 @@
-![](https://media.tproger.ru/uploads/2021/08/go-autoconverted.jpeg)
+<!-- ![](https://media.tproger.ru/uploads/2021/08/go-autoconverted.jpeg) -->
 
-# Hi there 👋
+## Hi there 👋
 
 I am Artur Iskakov, Golang Software Engineer
 <br />
