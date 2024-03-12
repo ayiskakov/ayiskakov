@@ -34,4 +34,4 @@ I am Artur Iskakov, Golang Software Engineer
 
 ### Github stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=khanfromasia&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="khanfromasia">
+<img  src="https://github-readme-stats.vercel.app/api?username=ayiskakov&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="khanfromasia">
